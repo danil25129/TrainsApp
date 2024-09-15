@@ -1,0 +1,108 @@
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Tickets.exe.config
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Tickets.exe
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Tickets.pdb
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\MySql.Data.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.AddTrain.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.AdminBookingForm.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.AdminForm.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.AdminRunsForm.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.AdminTrainsForm.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.AdminUsersForm.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.BookedForRun.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.MainForm.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.OrderForm.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.RegisterForm.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.TicketsList.resources
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.csproj.Up2Date
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.exe
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\obj\Debug\Tickets.pdb
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Npgsql.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Buffers.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Memory.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Text.Json.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Threading.Channels.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.ValueTuple.dll
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\Npgsql.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Buffers.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Memory.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Text.Json.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Threading.Channels.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Danil\Desktop\train\Trains-main\Tickets\bin\Debug\System.ValueTuple.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Tickets.exe.config
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Tickets.exe
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Tickets.pdb
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\MySql.Data.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Npgsql.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Buffers.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Collections.Immutable.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Memory.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Numerics.Vectors.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Text.Encodings.Web.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Text.Json.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Threading.Channels.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.ValueTuple.dll
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\Npgsql.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Buffers.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Collections.Immutable.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Memory.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Numerics.Vectors.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Text.Encodings.Web.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Text.Json.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Threading.Channels.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\bin\Debug\System.ValueTuple.xml
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.csproj.AssemblyReference.cache
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.AddTrain.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.AdminBookingForm.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.AdminForm.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.AdminRunsForm.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.AdminTrainsForm.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.AdminUsersForm.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.BookedForRun.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.MainForm.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.OrderForm.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.RegisterForm.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.TicketsList.resources
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.csproj.GenerateResource.cache
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.csproj.Up2Date
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.exe
+D:\6 семак\Клиент-серверные приложения\Курсовая\train\Trains-main\Tickets\obj\Debug\Tickets.pdb
